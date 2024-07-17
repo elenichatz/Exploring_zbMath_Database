@@ -1,0 +1,49 @@
+2019 : 
+Algebra Fundamentals = 0
+Quadratic Equations and Functions = 0
+Differential Calculus Foundations = 1
+Differentiation and Derivatives = 4
+Vectors and Vector Multiplications = 0
+Matrix Multiplications and Transformations = 12
+Probability Basics = 3
+Sampling and Sampling Distributions	= 4
+
+2020: 
+Algebra Fundamentals = 0
+Quadratic Equations and Functions = 0
+Differential Calculus Foundations = 0
+Differentiation and Derivatives = 3
+Vectors and Vector Multiplications = 0
+Matrix Multiplications and Transformations = 7
+Probability Basics = 10
+Sampling and Sampling Distributions	= 1
+
+2021 : 
+Algebra Fundamentals = 5
+Quadratic Equations and Functions = 0
+Differential Calculus Foundations = 0
+Differentiation and Derivatives = 0
+Vectors and Vector Multiplications = 0
+Matrix Multiplications and Transformations = 7
+Probability Basics = 10
+Sampling and Sampling Distributions	= 1
+
+2022: 
+Algebra Fundamentals = 1
+Quadratic Equations and Functions = 3
+Differential Calculus Foundations = 5
+Differentiation and Derivatives = 0
+Vectors and Vector Multiplications = 0
+Matrix Multiplications and Transformations = 7
+Probability Basics = 0
+Sampling and Sampling Distributions	= 5
+
+2023: 
+Algebra Fundamentals = 1
+Quadratic Equations and Functions = 2
+Differential Calculus Foundations = 3
+Differentiation and Derivatives = 0
+Vectors and Vector Multiplications = 0
+Matrix Multiplications and Transformations = 5
+Probability Basics = 0
+Sampling and Sampling Distributions	= 7
